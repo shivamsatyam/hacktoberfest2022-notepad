@@ -12,8 +12,6 @@
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
-<a href=""><img src="https://img.shields.io/github/issues-pr-closed/djswain09/landing-page" alt="Pull Requests Badge"/></a>
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/djswain09/landing-page?color=light-green">
 <h4>You can make folders of your own in this repo. Projects without folders are not accepted.</h4>
 
 
