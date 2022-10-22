@@ -14,7 +14,6 @@
 <a href="" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 <a href=""><img src="https://img.shields.io/github/issues-pr-closed/djswain09/landing-page" alt="Pull Requests Badge"/></a>
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/djswain09/landing-page?color=light-green">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/djswain09/landing-page?style=social">
 <h4>You can make folders of your own in this repo. Projects without folders are not accepted.</h4>
 
 
@@ -30,9 +29,6 @@ Collection of landing pages.
 ## How to Contribute :dart:
 
 - FIrst fork this project.
-
-- Clone your forked version ```git clone https://github.com/<YOUR-USERNAME>/landing-page.git```
- and make changes.
 
 - Commit your changes (write a short descriptive message of what you have done).
 
@@ -50,10 +46,3 @@ Collection of landing pages.
 - [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com)
 - [Hacktoberfest 2022 Participation Guidelines](https://hacktoberfest.com/participation)
 
-## :fire: Contributors :fire:
-
-<a href="https://github.com/djswain09/landing-page/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=djswain09/landing-page" />
-</a>
-
-Made with [contributors-img](https://contrib.rocks).
