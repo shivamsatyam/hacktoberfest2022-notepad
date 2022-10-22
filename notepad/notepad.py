@@ -70,31 +70,7 @@ def print1():
 	pass
 
 ######################### exit function
-def exit_func(event=None):
-	global file, text_changed
-	try:
-		if text_changed:
-			mbox = messagebox.askyesnocancel("warning", "do you want to save it")
-			
-			if mbox is True:
-				if file:
-					with open(file,"w") as op:
-						op.write(str(text.get(1.0,END)))
-						root.destroy()
-				else:
 
-					file = filedialog.asksaveasfile(mode="w",initialdir=os.getcwd(),defaultextension=".txt",
-													filetypes=[
-														("Text document as",".txt"),
-														("All files","*.*")									
-													])	
-					filetext = str(text.get(1.0,END))
-					file.write(filetext)
-					file.close()
-			else:
-				root.destroy()	
-	except Exception as w:
-		pass
 
 ######################### undo function
 def undo():
